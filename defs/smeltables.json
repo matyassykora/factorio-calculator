@@ -1,0 +1,18 @@
+{
+  "iron-ore": {
+    "smeltingSpeed": 0.3125,
+    "miningTime": 1
+  },
+  "copper-ore": {
+    "smeltingSpeed": 0.3125,
+    "miningTime": 1
+  },
+  "stone": {
+    "smeltingSpeed": 0.3125,
+    "miningTime": 1
+  },
+  "iron-plate": {
+    "smeltingSpeed": 0.0625,
+    "miningTime": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "copper-cable": {
+    "parts": [
+      {
+        "name": "copper-plate",
+        "amount": 1
+      }
+    ],
+    "outputAmount": 2,
+    "craftingTime": 0.5
+  },
+  "electronic-circuit": {
+    "parts": [
+      {
+        "name": "iron-plate",
+        "amount": 1
+      },
+      {
+        "name": "copper-cable",
+        "amount": 3
+      }
+    ],
+    "outputAmount": 2,
+    "craftingTime": 0.5
+  },
+  "copper-plate": {
+    "parts": [
+      {
+        "name": "copper-ore",
+        "amount": 1
+      }
+    ],
+    "outputAmount": 1,
+    "craftingTime": 3.2
+  },
+  "iron-plate": {
+    "parts": [
+      {
+        "name": "iron-ore",
+        "amount": 1
+      }
+    ],
+    "outputAmount": 1,
+    "craftingTime": 3.2
+  },
+  "iron-ore": {
+    "outputAmount": 1,
+    "craftingTime": 0.5
+  },
+  "copper-ore": {
+    "outputAmount": 1,
+    "craftingTime": 0.5
+  }
+}

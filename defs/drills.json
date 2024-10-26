@@ -1,0 +1,14 @@
+{
+  "burner-mining-drill": {
+    "miningSpeed": 0.25,
+    "pollution": 12
+  },
+  "electric-mining-drill": {
+    "miningSpeed": 0.5,
+    "pollution": 10
+  },
+  "big-mining-drill": {
+    "miningSpeed": 2.5,
+    "pollution": 40
+  }
+}

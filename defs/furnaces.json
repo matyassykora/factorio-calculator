@@ -1,0 +1,23 @@
+{
+  "stone-furnace": {
+    "baseSmeltingSpeed": 1,
+    "beaconModifier": 1,
+    "fuelConsumption": 0.0225,
+    "energyConsumption": 0,
+    "pollutionProduction": 2
+  },
+  "steel-furnace": {
+    "baseSmeltingSpeed": 2,
+    "beaconModifier": 1,
+    "fuelConsumption": 0.0225,
+    "energyConsumption": 0,
+    "pollutionProduction": 4
+  },
+  "electric-furnace": {
+    "baseSmeltingSpeed": 2,
+    "beaconModifier": 1,
+    "fuelConsumption": 0.0225,
+    "energyConsumption": 0,
+    "pollutionProduction": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "transport-belt": {
+    "speed": 15
+  },
+  "fast-transport-belt": {
+    "speed": 30
+  },
+  "express-transport-belt": {
+    "speed": 45
+  },
+  "turbo-transport-belt": {
+    "speed": 60
+  }
+}
